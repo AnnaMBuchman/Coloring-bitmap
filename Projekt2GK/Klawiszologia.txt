@@ -1,0 +1,19 @@
+Klawiszologia:
+Iloœæ trójk¹tów w osi x zmienia siê wpisuj¹c lub zmieniaj¹c strza³eczkami numericUpDown po prawej od x:
+Iloœæ trójk¹tów w osi y zmienia siê wpisuj¹c lub zmieniaj¹c strza³eczkami numericUpDown po prawej od y:
+
+Color: wybór koloru obrazu jeœli nie jest tekstura wybrana
+Light color: wybór koloru œwiat³a
+
+Wybór ks z przedzia³u [0,1] suwakiem poni¿ej ks: 
+Wybór kd z przedzia³u [0,1] suwakiem poni¿ej kd:
+Wybór m z przedzia³u [0,100] suwakiem poni¿ej m:
+
+Wybór mapy normalnej poni¿ej NormalMap: bricks-textura cegie³, circle -textura ko³a
+Wybór textury obrazu poni¿ej ChoseBitmap: wybór z 4 ró¿nych tekstur
+
+Wybór trybu rysowania 
+Mode: normal -bez interpolacji
+intepolation-z interpolacj¹ UWAGA: zadanie zrozumia³am tak, ¿e nie liczê w tym momencje koloru wype³nienia u¿ywaj¹c wzoru
+wiêc zmiania siê kolor
+hybryde -z interpolacj¹ i z normal tekstur¹
